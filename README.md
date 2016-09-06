@@ -1,0 +1,2 @@
+# Constraint_Xib_Coding
+在xib上使用约束进行布局， constraint对象代码布局，visual string布局及使用stackView的简单布局
